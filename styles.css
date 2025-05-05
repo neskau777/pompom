@@ -193,7 +193,7 @@ background-image: url(');
 }
 
 .alto-contraste #galeria {
-    background-color: var(--alto-contraste-fundo);
+    background-color: #000000;
 }
 .alto-contraste .fundo-galeria {
     background: none;
